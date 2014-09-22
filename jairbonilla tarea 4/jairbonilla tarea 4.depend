@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1408334679 source:c:\users\jair bonilla\desktop\celis\jairbonilla tarea 4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+

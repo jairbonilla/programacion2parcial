@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409259532 source:c:\users\jair bonilla\desktop\celis\arreglo4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

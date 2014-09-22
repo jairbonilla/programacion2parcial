@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1407730949 source:c:\users\jair bonilla\desktop\celis\emp.usnd for\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

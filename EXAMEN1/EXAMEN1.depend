@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1408487970 source:c:\users\jair bonilla\desktop\celis\examen1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1407732864 source:c:\users\jair bonilla\desktop\celis\prueba3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
